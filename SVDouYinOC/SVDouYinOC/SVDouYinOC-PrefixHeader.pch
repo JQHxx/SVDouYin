@@ -1,0 +1,15 @@
+//
+//  SVDouYinOC-PrefixHeader.pch
+//  SVDouYinOC
+//
+//  Created by HJQ on 2019/11/10.
+//  Copyright © 2019 HJQ. All rights reserved.
+//
+
+#ifndef SVDouYinOC_PrefixHeader_pch
+#define SVDouYinOC_PrefixHeader_pch
+
+#import "GlobalDefine.h"
+#import "SVDouYinOCHeader.h"
+
+#endif /* SVDouYinOC_PrefixHeader_pch */
